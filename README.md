@@ -10,7 +10,9 @@ This is visualized in a streamlit dashboard. The dashboard provides initial visu
 being adjusted.
 
 ## prerequisits
-install ollama `curl -fsSL https://ollama.com/install.sh | sh` and download model `ollama run mistral-nemo`
+install ollama `curl -fsSL https://ollama.com/install.sh | sh` 
+
+and run / download model `ollama run mistral-nemo`... we can also run a smaller one depending on your machine.
 
 Create a virtual environment
 `python3 -m venv .venv`
